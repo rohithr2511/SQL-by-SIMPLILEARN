@@ -1,0 +1,2 @@
+# SQL-by-SIMPLILEARN
+Certificate of SQL by SIMPLILEARN
